@@ -1,0 +1,17 @@
+   .highlight {
+       color: white;
+       background-color: darkblue;
+   }
+   
+   .custom-table {
+       border: 2px solid black;
+       width: 100%;
+       border-collapse: collapse;
+   }
+   
+   .custom-table td,
+   .custom-table th {
+       border: 1px solid gray;
+       padding: 8px;
+       text-align: center;
+   }
