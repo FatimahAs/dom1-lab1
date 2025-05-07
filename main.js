@@ -15,7 +15,7 @@ const img = document.getElementsByTagName('img')[0];
 img.src = './4.png';
 
 
-const ul = document.querySelector('.my-list');
+const ul = document.querySelector('my-list');
 const items = ['1', '2', '3'];
 const li = document.createElement('li');
 ul.appendChild(li);
